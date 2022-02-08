@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am in the process of renewing my GitHub.  
+In the meantime you can visit my personal site at https://kvael.com
+
 <!--
 **thomaskvael/thomaskvael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
